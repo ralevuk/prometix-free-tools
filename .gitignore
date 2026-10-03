@@ -1,0 +1,24 @@
+# Keyword Harvester output files (written next to the script)
+prometix-keyword-harvester/*.txt
+prometix-keyword-harvester/*.csv
+prometix-keyword-harvester/*.json
+!package.json
+!package-lock.json
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Secrets
+.env
+.env.*
+
+# OS / editors
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+.idea/
+
+# Claude Code
+.claude/
