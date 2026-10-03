@@ -8,6 +8,8 @@ Mali alat za komandnu liniju koji prikuplja ideje za ključne reči iz Google Au
 - Potreban je **Node.js 18 ili noviji**.
 - Podrazumevano cilja Srbiju (`--hl=sr --gl=RS`); menja se opcijama, vidi [Opcije](#opcije).
 
+Pozadina i objašnjenje metode na blogu: [Tajni Google link: besplatno istraživanje ključnih reči](https://prometix.net/blog/tajni-google-link-besplatno-istrazivanje-kljucnih-reci).
+
 ## Brzi start
 
 **Windows (dvoklik):** pokrenite `start.bat`, pa unesite keyword i dubinu kada vas pita.

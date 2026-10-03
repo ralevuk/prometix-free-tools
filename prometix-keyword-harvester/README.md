@@ -8,6 +8,8 @@ A small command-line tool that collects keyword ideas from Google Autocomplete (
 - Requires **Node.js 18 or later**.
 - Console messages are in Serbian; defaults target Serbia (`--hl=sr --gl=RS`). Both are easy to change, see [Options](#options).
 
+Background and a walkthrough of the method (in Serbian): [Tajni Google link: besplatno istraživanje ključnih reči](https://prometix.net/blog/tajni-google-link-besplatno-istrazivanje-kljucnih-reci).
+
 ## Quick start
 
 **Windows (double-click):** run `start.bat`, type the keyword and the depth when asked.
